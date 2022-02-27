@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for enabling judges to hold an assize at Durham. Wednesday July 13. 1659. Ordered by the Parliament, that this Act be forthwith printed and published. Tho. St Nicholas Clerk of Parliament.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82382</idno>
+            <idno type="STC">Wing E1033</idno>
+            <idno type="STC">Thomason E1074_11</idno>
+            <idno type="STC">ESTC R208305</idno>
+            <idno type="EEBO-CITATION">99867266</idno>
+            <idno type="PROQUEST">99867266</idno>
+            <idno type="VID">119571</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119571)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1074[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for enabling judges to hold an assize at Durham. Wednesday July 13. 1659. Ordered by the Parliament, that this Act be forthwith printed and published. Tho. St Nicholas Clerk of Parliament.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 8, [1 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Field, printer to the Parliament. And are to be sold at the seven Stars in Fleetstreet, over against Dunstans Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial letter; lext in black letter.</note>
+                  <note>Annotation on Thomason copy: "July. 16".</note>
+                  <note>Misnumbered: p. 5 misidentified as p. 4.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judges --  Great Britain --  Early works to 1800.</term>
+               <term>Law --  England --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Durham (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119571:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <p>AN ACT For Enabling JUDGES To hold an Aſſize at Durham.</p>
+            <figure>
+               <figDesc>blazon of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>W<gap reason="illegible: missing" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>dneſday</hi> July 13. 1659.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Parliament. That this Act be forth with Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>THO. S<hi rend="sup">t</hi> NICHOLAS Clerk of the Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by JOHN FIELD, Printer to the Parliament.</p>
+            <p>And are to be ſold at the ſeven Stars in <hi>Fleetſtreet,</hi> over againſt <hi>Dunſtans</hi> Church, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:119571:2"/>
+            <!-- PDF PAGE 80 -->
+            <pb n="1" facs="tcp:119571:2"/>
+            <!-- PDF PAGE 80 -->
+            <head>AN ACT For Enabling JUDGES To hold an Aſſize at Durham.</head>
+            <p>
+               <seg rend="decorInit">B</seg>E it Enacted by Autho<g ref="char:EOLhyphen"/>rity of Parliament, and it is hereby ordained and ap<g ref="char:EOLhyphen"/>pointed, That a Seſſions for the County of <hi>Durham</hi> ſhall be holden and kept at the City of <hi>Durham</hi> in the ſaid County, upon the Eighth day of <hi>Auguſt</hi> now next coming, being in this preſent year One thouſand ſix hundred fifty and nine, and that <hi>Francis Thorpe,</hi> one of the Iudges of this Commonwealth, and <hi>John Parker</hi> one other of the Iudges of this Common<g ref="char:EOLhyphen"/>wealth, ſhall be Iuſtices of the ſaid Seſſions for the ſaid County, and that all Actions, as well real as perſonal, and all other Acti<g ref="char:EOLhyphen"/>ons mixt or otherwiſe, and all Pleas, Pro<g ref="char:EOLhyphen"/>cepts, Writs, Proceſs, Demurrers, Recogni<g ref="char:EOLhyphen"/>zances, Fines, Recoveries, and all other Proceedings, matters and things which were depending in the Court of Pleas at <hi>Durham,</hi> upon the Two and Twentieth
+<pb n="2" facs="tcp:119571:3"/>
+               <!-- PDF PAGE 81 -->day of <hi>Auguſt</hi> One thouſand ſix hundred forty two, or at any time ſince, and are now diſcontinued and put without day by not coming of the Iuſtices, or otherwiſe, ſhall be and ſtand revived, continued, and of as fall force and effect in Law, to all intents and purpoſes, as they were the ſaid Two and Twentieth day of <hi>Auguſt,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred forty two, or at any time ſince, and as if the ſame had been taken and proceeded in before lawful Iuſtices. And that all ſuch Proceſs, Pleas, Demurrers, and Proceedings in every ſuch Action, Actions, Suits, Bills or Plaints, which were de<g ref="char:EOLhyphen"/>pending upon the ſaid Two and Twentieth of <hi>Auguſt,</hi> One thouſand ſix hundred forty two, or any time ſince, ſhall ſtand good and effectual, and be proceeded in, and ſued forth, in ſuch maner and form, and be in the ſame plight, eſtate, condition and order, as if the ſame diſcontinuance, obſtruction or hin<g ref="char:EOLhyphen"/>derance had never happened, any diſconti<g ref="char:EOLhyphen"/>nuance, miſcontinuance, putting without day, or not proſecuting of the ſame to the contrary notwithſtanding. And that the ſaid Iuſtices ſo aſſigned, or one of them, after ſuch time as they ſhall have the Re<g ref="char:EOLhyphen"/>cords of the ſame Pleas and Proceſs before them, ſhall have full Power and Autho<g ref="char:EOLhyphen"/>rity to continue the ſaid Pleas, Proceſs, and all things that depend upon them, and to hear and finally determine thereupon ac<g ref="char:EOLhyphen"/>cording as any other Iuſtice or Iuſtices of any Seſſions heretofore held at <hi>Durham,</hi> before the ſaid Two and Twentieth day
+<pb n="3" facs="tcp:119571:3"/>
+               <!-- PDF PAGE 81 -->of <hi>Auguſt,</hi> One thouſand ſix hundred forty two, might or ought to have done, in caſe there had not been any obſtruction, diſcon<g ref="char:EOLhyphen"/>tinuances, or not coming of the ſaid Iuſti<g ref="char:EOLhyphen"/>ces as aforeſaid.</p>
+            <p>And be it further Enacted, That in all Actions now depending in the Court of Exchequer at <hi>Weſtminſter,</hi> for any Matter or Cauſe ariſing within the ſaid County of <hi>Durham,</hi> and now at Iſſue, or which ſhall be brought to Iſſue, before the ſaid Eight of <hi>Auguſt,</hi> One thouſand ſix hundred fifty and nine, the tenor of the Record thereof ſhall be ſent by Mittimus, directed to the ſaid Iuſtices of the ſaid County of <hi>Durham,</hi> to be there tried according to the Law, and further to be proceeded in as the Law requires. And likewiſe that all Writs and Proceſs, which have ſince the ſaid Two and Twentieth day of <hi>Auguſt,</hi> One thouſand ſix hundred forty two, Iſſued forth out of the ſeveral Courts of Vpper Bench, and Common Pleas at <hi>Weſtminſter,</hi> directed to the Sheriff of the County of <hi>Durham,</hi> and all other Returns and other Proceedings thereupon, ſhall be as good and effectual in Law, to all intents and purpoſes, as any of the like Writs and Proceſſes directed to other Sheriffs of any other Counties of <hi>England,</hi> and Returns and other Proceedings thereupon are or ought to be; and that ſuch further Proceſs, Pro<g ref="char:EOLhyphen"/>ceeding, Trial, Iudgement, and Execution may be had thereupon, as in other Counties upon like Writs, Proceſs, and Actions.
+<pb n="4" facs="tcp:119571:4"/>
+               <!-- PDF PAGE 82 -->And that they the aforeſaid aſſigned Iu<g ref="char:EOLhyphen"/>ſtices, or either of them, ſhall likewiſe hear and determine all and all maner of Trea<g ref="char:EOLhyphen"/>ſons, Petty Treaſons, Murthers, Man<g ref="char:EOLhyphen"/>ſlaughters, Felonies, Burglaries, Rapes, Treſpaſſes, Riots, Routs, Vnlawful Aſſemblies, and all other Offences and Injuries whatſoever, tryable, done or committed by any perſon or perſons what<g ref="char:EOLhyphen"/>ſoever within the ſaid County of <hi>Durham,</hi> againſt the Statutes and Laws of this Nation, in ſuch caſes made and provided: and alſo to make or cauſe to be made a Gaol-delivery there, according to the Law and Cuſtom of <hi>England.</hi> And that the ſaid Iuſtices ſhall act, do and perform all other matters and things, in ſuch maner and form as any other Iuſtice or Iuſtices of Aſſize, or other Iuſtice at <hi>Durham,</hi> and of the Pleas of Crown, Common Pleas, and other Pleas, have uſually and reſpe<g ref="char:EOLhyphen"/>ctively acted, done and performed at any time heretofore. And the Lords Com<g ref="char:EOLhyphen"/>miſſioners appointed for the Cuſtody of the Great Seal of <hi>England,</hi> are hereby re<g ref="char:EOLhyphen"/>quired and Authorized to Iſſue forth to the ſaid Aſſigned Iuſtices of Aſſize and Gaol-delivery, for the Execution of the Pre<g ref="char:EOLhyphen"/>miſes, ſuch Commiſſion or Commiſſions, as in ſuch Caſes into other Counties of <hi>England</hi> are now Iſſued, and comman<g ref="char:EOLhyphen"/>ding and enjoyning likewiſe the Sheriff of the ſaid County of <hi>Durham,</hi> that he cauſe forthwith Proclamation and notice to be given in all places within the ſaid County,
+<pb n="4" facs="tcp:119571:4"/>
+               <!-- PDF PAGE 82 -->as well within Liberties as without, to all Earl, Barons, Knights, Iuſtices, Mayors, Bayliffs, Stewards, Officers, Miniſters, and other Perſons whatſo<g ref="char:EOLhyphen"/>ever, dwelling and reſiding within the ſaid County, having any thing to do at the ſame Seſſions, that they then and there attend upon the ſaid Iuſtices, and be in all things requiſite to them aiding and aſſiſting.</p>
+            <p>And it is further Enacted, Ordained, and Declared by the Authority aforeſaid, That as well all ſuch Fines and Common Re<g ref="char:EOLhyphen"/>coveries of any Honors, Manors, Lands, Tenements or Hereditaments, lying or being within the ſaid County of <hi>Durham,</hi> as were taken before the Iuſtices of Aſſizes, or either of them at the laſt Aſſizes, holden at <hi>Durham</hi> aforeſaid, the Twelfth day of <hi>Auguſt,</hi> One thouſand ſix hundred and fifty, or at any other time or times before the ſaid Aſſizes, ſince the ſaid Two and Twen<g ref="char:EOLhyphen"/>tieth day of <hi>Auguſt,</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty two, or which have been had or ſuffered before the Thirtieth of <hi>Auguſt,</hi> One thouſand ſix hundred fifty nine, and as if the ſame had been taken or ſuffered, or hereafter ſhall be taken or acknow<g ref="char:EOLhyphen"/>ledged at the ſaid Aſſizes, ſo by this Act appointed to be holden at <hi>Durham</hi> as afore<g ref="char:EOLhyphen"/>ſaid, or which ſhall be taken and acknow<g ref="char:EOLhyphen"/>ledged by vertue of any Commiſſion dire<g ref="char:EOLhyphen"/>cted to any Iudge of either Bench, Barons of the Exchequer, Serjeant at Law, and other Special Commiſſioners, according
+<pb n="6" facs="tcp:119571:5"/>
+               <!-- PDF PAGE 83 -->to the Accuſtomed maner of taking Fines and Recoveries of Lands, lying in any other County within the Commonwealth of <hi>England,</hi> ſhall be Ordered, Entred, In<g ref="char:EOLhyphen"/>groſſed, and otherwiſe proceeded in perfe<g ref="char:EOLhyphen"/>cting thereof in the Court of Common Pleas at <hi>Weſtminſter,</hi> and in ſuch Offices and Places, and in ſuch maner and form, and by and before ſuch Officers, as other Fines and Recoveries reſpectively taken of, or for Lands, Tenements, or other Hereditaments, lying within the Counties of <hi>Monmouth</hi> and <hi>Hereford,</hi> or any other County or Counties of <hi>England,</hi> which are not or have not been Counties Palatine, are and have been uſually Entred, En<g ref="char:EOLhyphen"/>rolled, Ingroſſed, Ordered, and other<g ref="char:EOLhyphen"/>wiſe proceeded in. And that all Writs of Covenant, Writs of Entry and Dedimus Poteſtatems, to take the Captions or Ac<g ref="char:EOLhyphen"/>knowledgements of Fines, and Warrants of Attorney for Recoveries within the ſaid County of <hi>Durham,</hi> ſhall be Iſſued and made by the preſent Curſitor of the ſaid Counties of <hi>Monmouth</hi> and <hi>Hereford,</hi> who is already ſworn and admitted Curſitor for the ſaid County of <hi>Durham,</hi> by the Lords Commiſſioners of the Great Seal, in as full and ample maner and form as any Writs of the like nature are or have been heretofore uſually Iſſued and made by any of the Curſitors of the Chancery of <hi>England,</hi> in any other of the Counties of <hi>England.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:119571:5"/>
+               <!-- PDF PAGE 83 -->
+And it is further Enacted and Or<g ref="char:EOLhyphen"/>dained, That the ſeveral Officer and Officers of the ſeveral and reſpective Offices and Places aforeſaid, ſhall re<g ref="char:EOLhyphen"/>ceive and take the ſaid Fines, Re<g ref="char:EOLhyphen"/>coveries, and all Writs and other Writings and Immuniments concern<g ref="char:EOLhyphen"/>ing the ſame, without exacting or taking any reward for, or duty for any <hi>Poſt Diem,</hi> or <hi>Poſt Terminum</hi> there<g ref="char:EOLhyphen"/>of; which Fine and Fines, and all and every Recovery and Recoveries here<g ref="char:EOLhyphen"/>tofore Levied or Suffered, or here<g ref="char:EOLhyphen"/>after to be Levied or Suffered, of any honors, Manors, Lands, Tene<g ref="char:EOLhyphen"/>ments, or Hereditaments lying or be<g ref="char:EOLhyphen"/>ing in the ſaid County of <hi>Durham,</hi> in maner and form aforeſaid, or here<g ref="char:EOLhyphen"/>after paſſed in the Court of Common Pleas at <hi>Weſtminſter,</hi> of any Lands or Tenements in the ſaid County, ſhall be of the ſame and the like force, ſtrength and effect in Law, to all intents, con<g ref="char:EOLhyphen"/>ſtructions and purpoſes, as any other Fine or Fines Levied, and Common Recoveries ſuffered in the ſaid Court of Common Pleas at <hi>Weſtminſter,</hi> of Lands lying in any other County, are or is, any Law, Statute, Cuſtom or Vſage to the contrary notwithſtanding.</p>
+         </div>
+         <div type="license">
+            <pb n="8" facs="tcp:119571:6"/>
+            <!-- PDF PAGE 84 -->
+            <opener>
+               <dateline>
+                  <date>Wedneſday, July 13, 1659.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>THO. S<hi rend="sup">t</hi> NICHOLAS Clerk of the Parliament.</signed>
+            </closer>
+            <pb facs="tcp:119571:6"/>
+            <!-- PDF PAGE 84 -->
+         </div>
+      </body>
+   </text>
+</TEI>
